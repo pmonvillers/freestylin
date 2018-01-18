@@ -3,6 +3,13 @@ Born in the morning with a sky of haze
 trying to learn, code cus crime dont pay
 I am the one who killed humpty dumpty
 meow woof quack moo
+what was that? 
+clap clap brrrrrrrrap 
 what was that?
 This GIT code is making my brain fry
+<<<<<<< HEAD
 Voila..Time for coffee now!
+=======
+it seems like we have gone off the rails but don't we all love git?!
+trying to get good with git 
+>>>>>>> a625ca0b0eb211ac7438426aeb18e4be5e2281af
