@@ -1,9 +1,5 @@
 In West Philadelphia, born and raised...
-<<<<<<< HEAD
 Born in the morning with a sky of haze 
 trying to learn, code cus crime dont pay
 I am the one who killed humpty dumpty
-=======
-Born in the morning with a sky of haze
-trying to learn, code cus crime dont pay
->>>>>>> 77a9564b8c89b966c2447a4530a852ebe5ce2d25
+meow woof quack moo
