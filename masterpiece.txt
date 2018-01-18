@@ -1,3 +1,8 @@
 In West Philadelphia, born and raised...
+<<<<<<< HEAD
 Born in the morning with a sky of haze
 i do not like green eggs and ham
+=======
+Born in the morning with a sky of haze 
+trying to learn, code cus crime dont pay
+>>>>>>> aae21483c70028ac6608ca7ddf8fef5154fe2e34
